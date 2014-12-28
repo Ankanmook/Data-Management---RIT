@@ -3,7 +3,7 @@ Data-Management-RIT
 SQL-Server 2012, Entity Relationship Diagram
 C# 4.0, Visual Studio 2012, Win Forms
 
-Database Design Project
+Relational Database Design Project
 
 Advisor: Professor Xumin Lui
 Course: Data Exploration and Management, 771
