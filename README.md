@@ -20,11 +20,11 @@ the traditional method of tracking it using paper works. The proposed Restaurant
 efficiency through use of a statistical data processing unit. 
 
 The model has been divided in to 3 major features. 
-Firstly, it handles front office and patron management to incorporate booking reservation tables for customers, 
-ordering food and patrons paying the food bills. 
-Secondly, inventory management system which keeps tracks of food 
-product items. 
-Thirdly, our software model maintains the vendor list and it also employee management, which keeps
-track of total number of hours worked by an employee and their hourly rate. A data processing unit allows managers 
+Firstly, it handles front office and patron management to incorporate booking reservation tables for customers, ordering food
+and patrons paying the food bills. 
+
+Secondly, inventory management system which keeps tracks of food product items. 
+
+Thirdly, our software model maintains the vendor list and it also employee management, which keeps track of total number of hours worked by an employee and their hourly rate. A data processing unit allows managers 
 and owners to easily monitor restaurant functions and employee progress.
 
